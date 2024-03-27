@@ -9,6 +9,7 @@ I'm a Bioinformatics student with a passion for AI and neuroimaging. Welcome to 
 ## Main Projects
 - [TC Image Segmentation Analysis with Region Growing and Split & Merge Techniques](https://github.com/MarioPasc/Region-Growing-Split-and-Merge-algorithms-in-Python)
 - [Malign Tumour Prediction using Machine Learning Algorithms](https://github.com/MarioPasc/BCW-Dataset-Tumor-Prediction-using-Machine-Learning)
+- [Segmentation of focal cortical dysplasia (FCD) type II lesions using YOLOv8 and PyTorch](https://github.com/MarioPasc/Epilepsy-Displasia-focal-Segmentation)
 - [Heuristic Search Algorithm applied to a Maze Solving problem](https://github.com/MarioPasc/A-Star-Algorithm-for-Maze-Solving)
 - [Histogram-based Computer Vision Algorithms for Biomedical Imaging Segmentation](https://github.com/MarioPasc/Biomedical-images-third-ass)
 - More Coming Soon!
