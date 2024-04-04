@@ -27,6 +27,7 @@ I'm a Bioinformatics student with a passion for AI and neuroimaging. Welcome to 
 ## Publications
 - Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images [DOI](https://arxiv.org/abs/2311.11742v1) [Code](https://github.com/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI).  
 
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopasc&hide=jupyter%20notebook,html" alt="Top Langs"/>
+</p>
 
