@@ -1,6 +1,6 @@
 # Hello, I'm Mario Pascual González!
 
-I'm a Bioinformatics student with a passion for AI and neuroimaging. Welcome to my GitHub profile!
+I'm a Bioinformatics student with a passion for Computer Vision, Signal Processing, Neuroimaging and Neurocomputation. 
 
 <p align="center">
   <img src="https://github.com/MarioPasc/MarioPasc/assets/120520768/858b0a99-8ccb-4b24-9218-218d4b6c4dab" width="500" height="200" alt="Git Logo"/>
@@ -13,12 +13,7 @@ I'm a Bioinformatics student with a passion for AI and neuroimaging. Welcome to 
 - [Detection and Classification of Coronary Artery Disease using YOLO (You Only Look Once) object detection algorithm.](https://github.com/MarioPasc/Atheroesclerosis_Detection)
 - [Heuristic Search Algorithm applied to a Maze Solving problem](https://github.com/MarioPasc/A-Star-Algorithm-for-Maze-Solving)
 - [Histogram-based Computer Vision Algorithms for Biomedical Imaging Segmentation](https://github.com/MarioPasc/Biomedical-images-third-ass)
-- More Coming Soon!
-
-## Interests
-- Neural Computation and Neuroimaging 🧠 (Tumour segmentation, chronic illnesses detection, etc.)              
-- AI Research 💻 (Deep learning architectures for computer vision, explainable AI, ...)                        
-- Open-Source Contribution 🗣️                                                                                 
+- More Coming Soon!                                                                         
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mario-pascual-gonzalez)
