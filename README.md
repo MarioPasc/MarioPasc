@@ -1,26 +1,44 @@
-# Hi, I'm Mario Pascual González
+<h1 align="center">Mario Pascual González</h1>
+<p align="center">
+  <em>Bioinformatics BSc · Researcher in Computer Vision & Biomedical Signal Processing</em>
+</p>
 
-Bioinformatics student with a passion for Computer Vision, Signal Processing, Neuroimaging and Neurocomputation. 
+## About me
+- 📚 Bioinformatics undergraduate @ UMA, Spain & Research Assistant (Computational Intelligence and Image Analysis lab)  
+- 🖥️ Focus: Deep learning for medical image segmentation and detection: Angiography and Multimodal MRI  
+- 🛠️ Core stack: Python | PyTorch | SKImage | Scikit-Learn   
+- 🎓 Goal: PhD in Neurocomputation, Biomedical Imaging-related
 
 ## Main Projects
-- [TC Image Segmentation Analysis with Region Growing and Split & Merge Techniques](https://github.com/MarioPasc/Region-Growing-Split-and-Merge-algorithms-in-Python)
-- [Malign Tumour Prediction using Machine Learning Algorithms](https://github.com/MarioPasc/BCW-Dataset-Tumor-Prediction-using-Machine-Learning)
-- [Segmentation of focal cortical dysplasia (FCD) type II lesions using YOLOv8 and PyTorch](https://github.com/MarioPasc/Epilepsy-Displasia-focal-Segmentation)
-- [Detection and Classification of Coronary Artery Disease using YOLO (You Only Look Once) object detection algorithm.](https://github.com/MarioPasc/Atheroesclerosis_Detection)
-- [Heuristic Search Algorithm applied to a Maze Solving problem](https://github.com/MarioPasc/A-Star-Algorithm-for-Maze-Solving)
-- [Histogram-based Computer Vision Algorithms for Biomedical Imaging Segmentation](https://github.com/MarioPasc/Biomedical-images-third-ass)
-- More Coming Soon!                                                                         
+| Repo | Summary | Tech | Stars |
+|------|---------|------|-------|
+| [**Hyperparameter Optimization in YOLO**](https://github.com/MarioPasc/Coronary_Angiography_Detection) | Unifying framework for high-performance bayesian and evolutionary hyperparameter optimiaztion in YOLO models. | Optuna, PyTorch | ![stars](https://img.shields.io/github/stars/MarioPasc/Coronary_Angiography_Detection?style=social) |
+| [**FISRG FCD Segmentation**](https://github.com/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI) | Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in T1 MR Brain Images. | OpenCV, Numpy | ![stars](https://img.shields.io/github/stars/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI?style=social) |
+| [**MGA-YOLO**](https://github.com/MarioPasc/MGA-YOLO) | Mask-Guided attention for Stenosis Detection in YOLO models. | PyTorch | ![stars](https://img.shields.io/github/stars/MarioPasc/MGA-YOLO?style=social) |
+| [**Dyslexia EEG Characterisation**](https://github.com/MarioPasc/Dyslexia_EEG_characterization) | Time-Series EEG Recurrence-quantification analysis for detecting underlying neural adaptation processes in dyslexia. | Scikit-Learn, PyUNICORN | ![stars](https://img.shields.io/github/stars/MarioPasc/Dyslexia_EEG_characterization?style=social) |
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mario-pascual-gonzalez)
-- [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=47ei0IcAAAAJ)
-- [My CV](https://drive.google.com/file/d/1fdOJZUajbW59Zewsa_wvF7ig1f0IfgIL/view)
-- [ORCID](https://orcid.org/my-orcid?orcid=0009-0001-2178-4647)
+<details>
+<summary>Additional applied & educational work</summary>
+
+- Malign tumour prediction from BCW dataset · classical ML → [repo](https://github.com/MarioPasc/BCW-Dataset-Tumor-Prediction-using-Machine-Learning)  
+- A* heuristic maze solver → [repo](https://github.com/MarioPasc/A-Star-Algorithm-for-Maze-Solving)  
+- Histogram-based segmentation utilities → [repo](https://github.com/MarioPasc/Biomedical-images-third-ass)  
+- TC Image Segmentation Analysis with Region Growing and Split & Merge Techniques → [repo](https://github.com/MarioPasc/Region-Growing-Split-and-Merge-algorithms-in-Python)
+- Segmentation of focal cortical dysplasia (FCD) type II lesions using YOLOv8 and PyTorch → [repo](https://github.com/MarioPasc/Epilepsy-Displasia-focal-Segmentation)
+-
+</details>
 
 ## Publications
-- Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images [DOI](https://arxiv.org/abs/2311.11742v1) [Code](https://github.com/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI).  
+- Mario Pascual-González, “Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images”, [arXiv](https://arxiv.org/abs/2311.11742). [[code]](https://github.com/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI)
+<details>
+<summary>Show BibTeX</summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopasc&hide=jupyter%20notebook,html" alt="Top Langs"/>
-</p>
+```bibtex
+@article{gonzalez2023fuzzy,
+  title={Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images},
+  author={Gonz{\'a}lez, Mario Pascual},
+  journal={arXiv preprint arXiv:2311.11742},
+  year={2023}
+}
+```
 
