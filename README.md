@@ -12,7 +12,7 @@
 ## Main Projects
 | Repo | Summary | Tech | Stars |
 |------|---------|------|-------|
-| [**Hyperparameter Optimization in YOLO**](https://github.com/MarioPasc/Coronary_Angiography_Detection) | Unifying framework for high-performance bayesian and evolutionary hyperparameter optimiaztion in YOLO models. | Optuna, PyTorch | ![stars](https://img.shields.io/github/stars/MarioPasc/Coronary_Angiography_Detection?style=social) |
+| [**Hyperparameter Optimization in YOLO**](https://github.com/MarioPasc/Coronary_Angiography_Detection) | Unifying framework for High-Performance Bayesian and Evolutionary hyperparameter optimization in YOLO models. | Optuna, PyTorch | ![stars](https://img.shields.io/github/stars/MarioPasc/Coronary_Angiography_Detection?style=social) |
 | [**FISRG FCD Segmentation**](https://github.com/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI) | Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in T1 MR Brain Images. | OpenCV, Numpy | ![stars](https://img.shields.io/github/stars/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI?style=social) |
 | [**MGA-YOLO**](https://github.com/MarioPasc/MGA-YOLO) | Mask-Guided attention for Stenosis Detection in YOLO models. | PyTorch | ![stars](https://img.shields.io/github/stars/MarioPasc/MGA-YOLO?style=social) |
 | [**Dyslexia EEG Characterisation**](https://github.com/MarioPasc/Dyslexia_EEG_characterization) | Time-Series EEG Recurrence-quantification analysis for detecting underlying neural adaptation processes in dyslexia. | Scikit-Learn, PyUNICORN | ![stars](https://img.shields.io/github/stars/MarioPasc/Dyslexia_EEG_characterization?style=social) |
