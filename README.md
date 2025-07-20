@@ -1,14 +1,14 @@
 <h1 align="center">Mario Pascual González</h1>
 <p align="center">
-  <em>Bioinformatics BSc · Researcher in Computer Vision & Biomedical Signal Processing</em>
+  <em>Bioinformatics BSc · Researcher in Computer Vision, Biomedical Imaging</em>
 </p>
 
 ## About me
 - 📚 Bioinformatics undergraduate @ UMA, Spain & Research Assistant (Computational Intelligence and Image Analysis lab)  
-- 🖥️ Focus: Computational Learning applied to Medical Imaging. I work with Angiography Imaging and Multimodal (Neuro) MRI.   
+- 🖥️ Focus: Deep Learning Computer Vision applied to Medical Imaging. I work with Angiography Imaging and Multimodal (Neuro) MRI.   
 - 🛠️ Core stack: Python | PyTorch | SKImage | Scikit-Learn   
 - 🎓 Goal: PhD in Neurocomputation, Biomedical Imaging-related
-- 📖 Other Interests: Mathematics, Probabilistic Machine Learning, Single-Cell Genomics, Fluorescence Imaging 
+- 📖 Other Interests: Mathematics, Probabilistic Machine Learning, Single-Cell Genomics, Fluorescence Imaging, ESP32
 
 ## Main Projects
 | Repo | Summary | Tech | Stars |
