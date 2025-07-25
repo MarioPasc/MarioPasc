@@ -30,9 +30,25 @@
 </details>
 
 ## Publications
-- Mario Pascual-González, “Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images”, [arXiv](https://arxiv.org/abs/2311.11742). [[code]](https://github.com/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI)
+
+- M. Pascual-González, A. Jiménez-Partinen, E. J. Palomo, E. López-Rubio, and A. Ortega-Gómez, "Hyperparameter optimization of YOLO models for invasive coronary angiography lesion detection and assessment," Computers in Biology and Medicine, vol. 196, p. 110697, 2025, doi: 10.1016/j.compbiomed.2025.110697. , [paper](https://www.sciencedirect.com/science/article/pii/S0010482525010480 ). [[code]](https://github.com/MarioPasc/Coronary_Angiography_Detection)
+- M. Pascual-González, “Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images”, [paper](https://arxiv.org/abs/2311.11742). [[code]](https://github.com/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI)
+
 <details>
 <summary>Show BibTeX</summary>
+
+```bibtex
+@article{PASCUALGONZALEZ2025110697,
+title = {Hyperparameter optimization of YOLO models for invasive coronary angiography lesion detection and assessment},
+journal = {Computers in Biology and Medicine},
+volume = {196},
+pages = {110697},
+year = {2025},
+issn = {0010-4825},
+doi = {https://doi.org/10.1016/j.compbiomed.2025.110697},
+url = {https://www.sciencedirect.com/science/article/pii/S0010482525010480},
+author = {Mario Pascual-González and Ariadna Jiménez-Partinen and Esteban J. Palomo and Ezequiel López-Rubio and Almudena Ortega-Gómez}
+```
 
 ```bibtex
 @article{gonzalez2023fuzzy,
