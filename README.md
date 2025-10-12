@@ -32,6 +32,7 @@
 ## Publications
 
 - M. Pascual-González, A. Jiménez-Partinen, E. J. Palomo, E. López-Rubio, and A. Ortega-Gómez, "Hyperparameter optimization of YOLO models for invasive coronary angiography lesion detection and assessment," Computers in Biology and Medicine, vol. 196, p. 110697, 2025, doi: 10.1016/j.compbiomed.2025.110697. , [paper](https://www.sciencedirect.com/science/article/pii/S0010482525010480 ). [[code]](https://github.com/MarioPasc/Coronary_Angiography_Detection)
+- M. Pascual-González, E. López-Rubio, F.Sendra-Portero, & A. Pérez-Lara (2025). Optimizando el preprocesamiento de la imagen por resonancia magnética: estimación ciega de ruido con campos aleatorios gaussianos. En F. Sendra Portero, D. Domínguez Pinos, T. Rudolphi Solero, L. de la Peña Fernández, & M. J. Ruiz Gómez (Eds.), III Congreso Nacional de Estudiantes de Radiología y Medicina Física (pp. 5–6). Asociación de Profesores Universitarios de Radiología y Medicina Física (APURF). ISBN 978-1-300-31039-6. Universidad de Málaga.
 - M. Pascual-González, “Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images”, [paper](https://arxiv.org/abs/2311.11742). [[code]](https://github.com/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI)
 
 <details>
@@ -48,6 +49,21 @@ issn = {0010-4825},
 doi = {https://doi.org/10.1016/j.compbiomed.2025.110697},
 url = {https://www.sciencedirect.com/science/article/pii/S0010482525010480},
 author = {Mario Pascual-González and Ariadna Jiménez-Partinen and Esteban J. Palomo and Ezequiel López-Rubio and Almudena Ortega-Gómez}
+```
+
+```bibtex
+@inproceedings{PascualGonzalez2025,
+  author    = {Mario Pascual González and Ezequiel López Rubio and Francisco Sendra Portero and Almudena Pérez Lara},
+  title     = {Optimizando el Preprocesamiento de la Imagen por Resonancia Magnética: Estimación Ciega de Ruido con Campos Aleatorios Gaussianos},
+  booktitle = {III Congreso Nacional de Estudiantes de Radiología y Medicina Física},
+  editor    = {Francisco Sendra Portero and Dolores Domínguez Pinos and Teodoro Rudolphi Solero and Lourdes de la Peña Fernández and Miguel José Ruiz Gómez},
+  year      = {2025},
+  pages     = {5--6},
+  publisher = {Asociación de Profesores Universitarios de Radiología y Medicina Física (APURF)},
+  address   = {Málaga, España},
+  isbn      = {978-1-300-31039-6},
+  organization = {Universidad de Málaga}
+}
 ```
 
 ```bibtex
