@@ -1,38 +1,56 @@
-<h1 align="center">Mario Pascual González</h1>
-<p align="center">
-  <em>Bioinformatics BSc · Researcher in Computer Vision, Biomedical Imaging</em>
-</p>
+# Mario Pascual González
 
-## About me
-- 📚 Bioinformatics undergraduate @ UMA, Spain & Research Assistant (Computational Intelligence and Image Analysis lab)  
-- 🖥️ Focus: Deep Learning Computer Vision applied to Medical Imaging. I work with Angiography Imaging and Multimodal (Neuro) MRI.   
-- 🛠️ Core stack: Python | PyTorch | SKImage | Scikit-Learn   
-- 🎓 Goal: PhD in Neurocomputation, Biomedical Imaging-related
-- 📖 Other Interests: Mathematics, Probabilistic Machine Learning, Single-Cell Genomics, Fluorescence Imaging, ESP32
+**Bioinformatics BSc** | **Computer Vision Researcher** | **Biomedical Imaging**
 
-## Main Projects
-| Repo | Summary | Tech | Stars |
-|------|---------|------|-------|
-| [**Hyperparameter Optimization in YOLO**](https://github.com/MarioPasc/Coronary_Angiography_Detection) | Unifying framework for High-Performance Bayesian and Evolutionary hyperparameter optimization in YOLO-based models for stenosis detection. | Optuna, PyTorch | ![stars](https://img.shields.io/github/stars/MarioPasc/Coronary_Angiography_Detection?style=social) |
-| [**MGA-YOLO**](https://github.com/MarioPasc/MGA-YOLO) | Mask-Guided attention for Stenosis Detection in YOLO models. | PyTorch | ![stars](https://img.shields.io/github/stars/MarioPasc/MGA-YOLO?style=social) |
-| [**Dyslexia EEG Characterisation**](https://github.com/MarioPasc/Dyslexia_EEG_characterization) | Time-Series EEG Recurrence-quantification analysis for detecting underlying neural adaptation processes in dyslexia. | Scikit-Learn, PyUNICORN | ![stars](https://img.shields.io/github/stars/MarioPasc/Dyslexia_EEG_characterization?style=social) |
+---
+
+## Research Profile
+
+I am a Bioinformatics undergraduate student at the University of Málaga (UMA), Spain, and a Research Assistant at the Computational Intelligence and Image Analysis laboratory. My research focuses on the application of deep learning and computer vision methodologies to medical imaging analysis, with particular emphasis on angiography imaging and multimodal neuroimaging using Magnetic Resonance Imaging (MRI).
+
+**Research Areas:**
+- Deep Learning for Medical Image Analysis
+- Computer Vision in Coronary Angiography
+- Multimodal Neuroimaging Processing and Segmentation
+- Hyperparameter Optimization for Object Detection Models
+- Recurrence Quantification Analysis in Neurophysiological Signals
+
+**Technical Expertise:**
+Python, PyTorch, Scikit-Image, Scikit-Learn, Deep Learning Frameworks
+
+**Academic Objectives:**
+Pursuing doctoral studies in Neurocomputation and Biomedical Imaging, with focus on advancing computational methods for clinical decision support systems.
+
+**Additional Research Interests:**
+Mathematical foundations of machine learning, probabilistic machine learning, single-cell genomics analysis, fluorescence microscopy imaging
+
+## Research Projects
+
+### Primary Research
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**Hyperparameter Optimization in YOLO**](https://github.com/MarioPasc/Coronary_Angiography_Detection) | Comprehensive framework implementing Bayesian and evolutionary hyperparameter optimization strategies for YOLO-based object detection models applied to coronary stenosis identification in angiographic imagery. Published in *Computers in Biology and Medicine*. | Optuna, PyTorch |
+| [**MGA-YOLO**](https://github.com/MarioPasc/MGA-YOLO) | Novel attention mechanism leveraging mask-guided features to enhance stenosis detection accuracy in YOLO architectures for invasive coronary angiography analysis. | PyTorch |
+| [**Dyslexia EEG Characterisation**](https://github.com/MarioPasc/Dyslexia_EEG_characterization) | Application of recurrence quantification analysis (RQA) to electroencephalographic time-series data for characterizing neural adaptation mechanisms underlying dyslexia pathophysiology. | Scikit-Learn, PyUNICORN |
 
 <details>
-<summary>Additional applied & educational work</summary>
+<summary>Additional Research and Educational Projects</summary>
 
-- Malign tumour prediction from BCW dataset · classical ML → [repo](https://github.com/MarioPasc/BCW-Dataset-Tumor-Prediction-using-Machine-Learning)  
-- A* heuristic maze solver → [repo](https://github.com/MarioPasc/A-Star-Algorithm-for-Maze-Solving)  
-- Histogram-based segmentation utilities → [repo](https://github.com/MarioPasc/Biomedical-images-third-ass)  
-- TC Image Segmentation Analysis with Region Growing and Split & Merge Techniques → [repo](https://github.com/MarioPasc/Region-Growing-Split-and-Merge-algorithms-in-Python)
-- Segmentation of focal cortical dysplasia (FCD) type II lesions using YOLOv8 and PyTorch → [repo](https://github.com/MarioPasc/Epilepsy-Displasia-focal-Segmentation)
--
+- **Breast Cancer Wisconsin Dataset Analysis**: Machine learning approaches for malignant tumor prediction using classical algorithms → [repository](https://github.com/MarioPasc/BCW-Dataset-Tumor-Prediction-using-Machine-Learning)
+- **A* Pathfinding Algorithm**: Implementation of heuristic-based maze solving using A* search algorithm → [repository](https://github.com/MarioPasc/A-Star-Algorithm-for-Maze-Solving)
+- **Histogram-Based Image Segmentation**: Utilities for biomedical image segmentation using histogram analysis techniques → [repository](https://github.com/MarioPasc/Biomedical-images-third-ass)
+- **Region Growing and Split-Merge Segmentation**: Analysis of CT imaging using region-based segmentation algorithms → [repository](https://github.com/MarioPasc/Region-Growing-Split-and-Merge-algorithms-in-Python)
+- **Focal Cortical Dysplasia Segmentation**: Deep learning-based segmentation of FCD type II lesions in epilepsy imaging using YOLOv8 → [repository](https://github.com/MarioPasc/Epilepsy-Displasia-focal-Segmentation)
+- **Fuzzy Information Seeded Region Growing**: Automated lesion segmentation in post-stroke MR brain images using fuzzy logic-based region growing → [repository](https://github.com/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI)
+
 </details>
 
 ## Publications
 
-- M. Pascual-González, A. Jiménez-Partinen, E. J. Palomo, E. López-Rubio, and A. Ortega-Gómez, "Hyperparameter optimization of YOLO models for invasive coronary angiography lesion detection and assessment," Computers in Biology and Medicine, vol. 196, p. 110697, 2025, doi: 10.1016/j.compbiomed.2025.110697. , [paper](https://www.sciencedirect.com/science/article/pii/S0010482525010480 ). [[code]](https://github.com/MarioPasc/Coronary_Angiography_Detection)
-- M. Pascual-González, E. López-Rubio, F.Sendra-Portero, & A. Pérez-Lara (2025). Optimizando el preprocesamiento de la imagen por resonancia magnética: estimación ciega de ruido con campos aleatorios gaussianos. En F. Sendra Portero, D. Domínguez Pinos, T. Rudolphi Solero, L. de la Peña Fernández, & M. J. Ruiz Gómez (Eds.), III Congreso Nacional de Estudiantes de Radiología y Medicina Física (pp. 5–6). Asociación de Profesores Universitarios de Radiología y Medicina Física (APURF). ISBN 978-1-300-31039-6. Universidad de Málaga. [paper](https://www.biznaga.org/SLbiblio/2025-libro-III-congreso-estudiantes-APURF.pdf)
-- M. Pascual-González, “Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images”, [paper](https://arxiv.org/abs/2311.11742). [[code]](https://github.com/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI)
+1. **M. Pascual-González**, A. Jiménez-Partinen, E. J. Palomo, E. López-Rubio, and A. Ortega-Gómez, "Hyperparameter optimization of YOLO models for invasive coronary angiography lesion detection and assessment," *Computers in Biology and Medicine*, vol. 196, p. 110697, 2025, doi: [10.1016/j.compbiomed.2025.110697](https://doi.org/10.1016/j.compbiomed.2025.110697). [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482525010480) [[code]](https://github.com/MarioPasc/Coronary_Angiography_Detection)
+2. **M. Pascual-González**, E. López-Rubio, F. Sendra-Portero, & A. Pérez-Lara (2025). "Optimizando el preprocesamiento de la imagen por resonancia magnética: estimación ciega de ruido con campos aleatorios gaussianos." In F. Sendra Portero, D. Domínguez Pinos, T. Rudolphi Solero, L. de la Peña Fernández, & M. J. Ruiz Gómez (Eds.), *III Congreso Nacional de Estudiantes de Radiología y Medicina Física* (pp. 5–6). Asociación de Profesores Universitarios de Radiología y Medicina Física (APURF). ISBN 978-1-300-31039-6. Universidad de Málaga. [[paper]](https://www.biznaga.org/SLbiblio/2025-libro-III-congreso-estudiantes-APURF.pdf)
+3. **M. Pascual-González**, "Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images," *arXiv preprint* arXiv:2311.11742, 2023. [[paper]](https://arxiv.org/abs/2311.11742) [[code]](https://github.com/MarioPasc/FISRG-for-Automated-Lesion-After-Stroke-Segmentation-in-MRI)
 
 <details>
 <summary>Show BibTeX</summary>
