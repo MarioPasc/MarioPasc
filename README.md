@@ -1,28 +1,21 @@
 # Mario Pascual González
 
-**Bioinformatics BSc** | **Computer Vision Researcher** | **Biomedical Imaging**
+**Bioinformatics BSc** 
 
 ---
 
 ## Research Profile
 
-I am a Bioinformatics undergraduate student at the University of Málaga (UMA), Spain, and a Research Assistant at the Computational Intelligence and Image Analysis laboratory. My research focuses on the application of deep learning and computer vision methodologies to medical imaging analysis, with particular emphasis on angiography imaging and multimodal neuroimaging using Magnetic Resonance Imaging (MRI).
-
-**Research Areas:**
-- Deep Learning for Medical Image Analysis
-- Computer Vision in Coronary Angiography
-- Multimodal Neuroimaging Processing and Segmentation
-- Hyperparameter Optimization for Object Detection Models
-- Recurrence Quantification Analysis in Neurophysiological Signals
+I am a Bioinformatics undergraduate student at the University of Málaga (UMA), Spain, and an Undergrate Research Fellow at the Computational Intelligence and Image Analysis laboratory. My research focuses on the application of deep learning and computer vision methodologies to medical imaging analysis.
 
 **Technical Expertise:**
-Python, PyTorch, Scikit-Image, Scikit-Learn, Deep Learning Frameworks
+Python, PyTorch, Scikit-Image, Scikit-Learn
 
 **Academic Objectives:**
-Pursuing doctoral studies in Neurocomputation and Biomedical Imaging, with focus on advancing computational methods for clinical decision support systems.
+Pursuing doctoral studies in Neurocomputation and Biomedical Imaging.
 
 **Additional Research Interests:**
-Mathematical foundations of machine learning, probabilistic machine learning, single-cell genomics analysis, fluorescence microscopy imaging
+Mathematical foundations of machine learning, probabilistic machine learning, diffusion models.
 
 ## Research Projects
 
