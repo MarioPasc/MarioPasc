@@ -1,10 +1,10 @@
 # Mario Pascual González
 
-**Bioinformatics BSc, Rsearch Intern @ ICAI, UMA** 
+**Bioinformatics BSc, Research Intern @ ICAI, UMA** 
 
 ## Research Profile
 
-I am a Bioinformatics undergraduate student at the University of Málaga (UMA), Spain, and an Undergrate Research Fellow at the Computational Intelligence and Image Analysis laboratory. My research focuses on the application of deep learning and computer vision methodologies to medical imaging analysis.
+Bioinformatics undergraduate student at the University of Málaga (UMA), Spain, and an Undergrate Research Fellow at the Computational Intelligence and Image Analysis laboratory. My research focuses on the application of deep learning and computer vision methodologies to medical imaging analysis.
 
 **Technical Expertise:**
 Python, PyTorch, Scikit-Image, Scikit-Learn
