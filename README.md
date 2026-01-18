@@ -1,8 +1,6 @@
 # Mario Pascual González
 
-**Bioinformatics BSc** 
-
----
+**Bioinformatics BSc, Rsearch Intern @ ICAI, UMA** 
 
 ## Research Profile
 
